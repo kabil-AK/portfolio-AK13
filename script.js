@@ -91,7 +91,7 @@ const typingText =
 const roles = [
     "Java Full Stack Developer",
     "Frontend Developer",
-    "React Developer",
+    "Backend Developer",
     "Web Developer"
 ];
 
